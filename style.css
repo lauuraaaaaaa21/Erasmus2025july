@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: "VT323", monospace;
+    font-size: 18px;
+    background-color: black;
+    color: aqua;
+}
+
+header {
+    width: 100%;
+    text-align: center;
+}
+
+section{
+    width: 100%;
+    max-width: 800px;
+    min-width: 480px;
+    
+}
+
+body{
+    padding: 8px;
+    margin: 8px;
+}
